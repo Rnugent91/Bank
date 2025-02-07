@@ -4,6 +4,11 @@
         "betting_open": true,
         "home_team": "LOS MONJES",
         "away_team": "Murphy's Maniacs",
-        "bets": {}
+        "bets": {
+            "548632313752190986": {
+                "team": "LOS MONJES",
+                "amount": 100
+            }
+        }
     }
 }
