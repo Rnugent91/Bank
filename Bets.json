@@ -14,5 +14,12 @@
                 "amount": 100
             }
         }
+    },
+    "63S7AT": {
+        "match_id": "M4EkduCpzHkzUXE1fQOu6A2",
+        "betting_open": true,
+        "home_team": "AfterHours",
+        "away_team": "Crusader is Handsome",
+        "bets": {}
     }
 }
