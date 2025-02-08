@@ -2548,10 +2548,15 @@
         }
     },
     "667413968175890442": {
-        "balance": 10,
+        "balance": 20,
         "bets": [],
         "transactions": {
             "deposits": [
+                {
+                    "timestamp": "2025-02-08 22:51:15",
+                    "amount": 10,
+                    "Reason": "Weekly activity in PavlovPSVR2"
+                },
                 {
                     "timestamp": "2025-02-08 22:51:10",
                     "amount": 10,
@@ -2772,14 +2777,509 @@
         }
     },
     "570315031326228501": {
+        "balance": 20,
+        "bets": [],
+        "transactions": {
+            "deposits": [
+                {
+                    "timestamp": "2025-02-08 22:51:15",
+                    "amount": 10,
+                    "Reason": "Weekly activity in PavlovPSVR2"
+                },
+                {
+                    "timestamp": "2025-02-08 22:51:10",
+                    "amount": 10,
+                    "Reason": "Weekly activity in vail"
+                }
+            ],
+            "withdrawals": []
+        }
+    },
+    "343437969325162499": {
         "balance": 10,
         "bets": [],
         "transactions": {
             "deposits": [
                 {
-                    "timestamp": "2025-02-08 22:51:10",
+                    "timestamp": "2025-02-08 22:51:15",
                     "amount": 10,
-                    "Reason": "Weekly activity in vail"
+                    "Reason": "Weekly activity in PavlovPSVR2"
+                }
+            ],
+            "withdrawals": []
+        }
+    },
+    "766015320502304825": {
+        "balance": 10,
+        "bets": [],
+        "transactions": {
+            "deposits": [
+                {
+                    "timestamp": "2025-02-08 22:51:15",
+                    "amount": 10,
+                    "Reason": "Weekly activity in PavlovPSVR2"
+                }
+            ],
+            "withdrawals": []
+        }
+    },
+    "217318331777024000": {
+        "balance": 10,
+        "bets": [],
+        "transactions": {
+            "deposits": [
+                {
+                    "timestamp": "2025-02-08 22:51:15",
+                    "amount": 10,
+                    "Reason": "Weekly activity in PavlovPSVR2"
+                }
+            ],
+            "withdrawals": []
+        }
+    },
+    "768856860765585422": {
+        "balance": 10,
+        "bets": [],
+        "transactions": {
+            "deposits": [
+                {
+                    "timestamp": "2025-02-08 22:51:15",
+                    "amount": 10,
+                    "Reason": "Weekly activity in PavlovPSVR2"
+                }
+            ],
+            "withdrawals": []
+        }
+    },
+    "216282316585172992": {
+        "balance": 10,
+        "bets": [],
+        "transactions": {
+            "deposits": [
+                {
+                    "timestamp": "2025-02-08 22:51:15",
+                    "amount": 10,
+                    "Reason": "Weekly activity in PavlovPSVR2"
+                }
+            ],
+            "withdrawals": []
+        }
+    },
+    "1045818833191051284": {
+        "balance": 10,
+        "bets": [],
+        "transactions": {
+            "deposits": [
+                {
+                    "timestamp": "2025-02-08 22:51:15",
+                    "amount": 10,
+                    "Reason": "Weekly activity in PavlovPSVR2"
+                }
+            ],
+            "withdrawals": []
+        }
+    },
+    "938439349954043904": {
+        "balance": 10,
+        "bets": [],
+        "transactions": {
+            "deposits": [
+                {
+                    "timestamp": "2025-02-08 22:51:15",
+                    "amount": 10,
+                    "Reason": "Weekly activity in PavlovPSVR2"
+                }
+            ],
+            "withdrawals": []
+        }
+    },
+    "914821882677690418": {
+        "balance": 10,
+        "bets": [],
+        "transactions": {
+            "deposits": [
+                {
+                    "timestamp": "2025-02-08 22:51:15",
+                    "amount": 10,
+                    "Reason": "Weekly activity in PavlovPSVR2"
+                }
+            ],
+            "withdrawals": []
+        }
+    },
+    "402816041270378496": {
+        "balance": 10,
+        "bets": [],
+        "transactions": {
+            "deposits": [
+                {
+                    "timestamp": "2025-02-08 22:51:15",
+                    "amount": 10,
+                    "Reason": "Weekly activity in PavlovPSVR2"
+                }
+            ],
+            "withdrawals": []
+        }
+    },
+    "683209194362634260": {
+        "balance": 10,
+        "bets": [],
+        "transactions": {
+            "deposits": [
+                {
+                    "timestamp": "2025-02-08 22:51:15",
+                    "amount": 10,
+                    "Reason": "Weekly activity in PavlovPSVR2"
+                }
+            ],
+            "withdrawals": []
+        }
+    },
+    "146547423421005824": {
+        "balance": 10,
+        "bets": [],
+        "transactions": {
+            "deposits": [
+                {
+                    "timestamp": "2025-02-08 22:51:15",
+                    "amount": 10,
+                    "Reason": "Weekly activity in PavlovPSVR2"
+                }
+            ],
+            "withdrawals": []
+        }
+    },
+    "836681066696671274": {
+        "balance": 10,
+        "bets": [],
+        "transactions": {
+            "deposits": [
+                {
+                    "timestamp": "2025-02-08 22:51:15",
+                    "amount": 10,
+                    "Reason": "Weekly activity in PavlovPSVR2"
+                }
+            ],
+            "withdrawals": []
+        }
+    },
+    "292308686502887424": {
+        "balance": 10,
+        "bets": [],
+        "transactions": {
+            "deposits": [
+                {
+                    "timestamp": "2025-02-08 22:51:15",
+                    "amount": 10,
+                    "Reason": "Weekly activity in PavlovPSVR2"
+                }
+            ],
+            "withdrawals": []
+        }
+    },
+    "769518665153773618": {
+        "balance": 10,
+        "bets": [],
+        "transactions": {
+            "deposits": [
+                {
+                    "timestamp": "2025-02-08 22:51:15",
+                    "amount": 10,
+                    "Reason": "Weekly activity in PavlovPSVR2"
+                }
+            ],
+            "withdrawals": []
+        }
+    },
+    "1074614891274571838": {
+        "balance": 10,
+        "bets": [],
+        "transactions": {
+            "deposits": [
+                {
+                    "timestamp": "2025-02-08 22:51:15",
+                    "amount": 10,
+                    "Reason": "Weekly activity in PavlovPSVR2"
+                }
+            ],
+            "withdrawals": []
+        }
+    },
+    "701419578336739398": {
+        "balance": 10,
+        "bets": [],
+        "transactions": {
+            "deposits": [
+                {
+                    "timestamp": "2025-02-08 22:51:15",
+                    "amount": 10,
+                    "Reason": "Weekly activity in PavlovPSVR2"
+                }
+            ],
+            "withdrawals": []
+        }
+    },
+    "840572106256547841": {
+        "balance": 10,
+        "bets": [],
+        "transactions": {
+            "deposits": [
+                {
+                    "timestamp": "2025-02-08 22:51:15",
+                    "amount": 10,
+                    "Reason": "Weekly activity in PavlovPSVR2"
+                }
+            ],
+            "withdrawals": []
+        }
+    },
+    "1323652271166328906": {
+        "balance": 10,
+        "bets": [],
+        "transactions": {
+            "deposits": [
+                {
+                    "timestamp": "2025-02-08 22:51:15",
+                    "amount": 10,
+                    "Reason": "Weekly activity in PavlovPSVR2"
+                }
+            ],
+            "withdrawals": []
+        }
+    },
+    "733621092790566973": {
+        "balance": 10,
+        "bets": [],
+        "transactions": {
+            "deposits": [
+                {
+                    "timestamp": "2025-02-08 22:51:15",
+                    "amount": 10,
+                    "Reason": "Weekly activity in PavlovPSVR2"
+                }
+            ],
+            "withdrawals": []
+        }
+    },
+    "1207311949168123934": {
+        "balance": 10,
+        "bets": [],
+        "transactions": {
+            "deposits": [
+                {
+                    "timestamp": "2025-02-08 22:51:15",
+                    "amount": 10,
+                    "Reason": "Weekly activity in PavlovPSVR2"
+                }
+            ],
+            "withdrawals": []
+        }
+    },
+    "480098039684661248": {
+        "balance": 10,
+        "bets": [],
+        "transactions": {
+            "deposits": [
+                {
+                    "timestamp": "2025-02-08 22:51:15",
+                    "amount": 10,
+                    "Reason": "Weekly activity in PavlovPSVR2"
+                }
+            ],
+            "withdrawals": []
+        }
+    },
+    "1279463857882005565": {
+        "balance": 10,
+        "bets": [],
+        "transactions": {
+            "deposits": [
+                {
+                    "timestamp": "2025-02-08 22:51:15",
+                    "amount": 10,
+                    "Reason": "Weekly activity in PavlovPSVR2"
+                }
+            ],
+            "withdrawals": []
+        }
+    },
+    "276801158490619914": {
+        "balance": 10,
+        "bets": [],
+        "transactions": {
+            "deposits": [
+                {
+                    "timestamp": "2025-02-08 22:51:15",
+                    "amount": 10,
+                    "Reason": "Weekly activity in PavlovPSVR2"
+                }
+            ],
+            "withdrawals": []
+        }
+    },
+    "700812097423933682": {
+        "balance": 10,
+        "bets": [],
+        "transactions": {
+            "deposits": [
+                {
+                    "timestamp": "2025-02-08 22:51:15",
+                    "amount": 10,
+                    "Reason": "Weekly activity in PavlovPSVR2"
+                }
+            ],
+            "withdrawals": []
+        }
+    },
+    "723878647261298699": {
+        "balance": 10,
+        "bets": [],
+        "transactions": {
+            "deposits": [
+                {
+                    "timestamp": "2025-02-08 22:51:15",
+                    "amount": 10,
+                    "Reason": "Weekly activity in PavlovPSVR2"
+                }
+            ],
+            "withdrawals": []
+        }
+    },
+    "599736465051746304": {
+        "balance": 10,
+        "bets": [],
+        "transactions": {
+            "deposits": [
+                {
+                    "timestamp": "2025-02-08 22:51:15",
+                    "amount": 10,
+                    "Reason": "Weekly activity in PavlovPSVR2"
+                }
+            ],
+            "withdrawals": []
+        }
+    },
+    "227452735664947200": {
+        "balance": 10,
+        "bets": [],
+        "transactions": {
+            "deposits": [
+                {
+                    "timestamp": "2025-02-08 22:51:15",
+                    "amount": 10,
+                    "Reason": "Weekly activity in PavlovPSVR2"
+                }
+            ],
+            "withdrawals": []
+        }
+    },
+    "352111494625886208": {
+        "balance": 10,
+        "bets": [],
+        "transactions": {
+            "deposits": [
+                {
+                    "timestamp": "2025-02-08 22:51:15",
+                    "amount": 10,
+                    "Reason": "Weekly activity in PavlovPSVR2"
+                }
+            ],
+            "withdrawals": []
+        }
+    },
+    "542105544291516416": {
+        "balance": 10,
+        "bets": [],
+        "transactions": {
+            "deposits": [
+                {
+                    "timestamp": "2025-02-08 22:51:15",
+                    "amount": 10,
+                    "Reason": "Weekly activity in PavlovPSVR2"
+                }
+            ],
+            "withdrawals": []
+        }
+    },
+    "620650743283712011": {
+        "balance": 10,
+        "bets": [],
+        "transactions": {
+            "deposits": [
+                {
+                    "timestamp": "2025-02-08 22:51:15",
+                    "amount": 10,
+                    "Reason": "Weekly activity in PavlovPSVR2"
+                }
+            ],
+            "withdrawals": []
+        }
+    },
+    "1139526850385821707": {
+        "balance": 10,
+        "bets": [],
+        "transactions": {
+            "deposits": [
+                {
+                    "timestamp": "2025-02-08 22:51:15",
+                    "amount": 10,
+                    "Reason": "Weekly activity in PavlovPSVR2"
+                }
+            ],
+            "withdrawals": []
+        }
+    },
+    "1162521420346163320": {
+        "balance": 10,
+        "bets": [],
+        "transactions": {
+            "deposits": [
+                {
+                    "timestamp": "2025-02-08 22:51:15",
+                    "amount": 10,
+                    "Reason": "Weekly activity in PavlovPSVR2"
+                }
+            ],
+            "withdrawals": []
+        }
+    },
+    "764231241498099774": {
+        "balance": 10,
+        "bets": [],
+        "transactions": {
+            "deposits": [
+                {
+                    "timestamp": "2025-02-08 22:51:15",
+                    "amount": 10,
+                    "Reason": "Weekly activity in PavlovPSVR2"
+                }
+            ],
+            "withdrawals": []
+        }
+    },
+    "1271239453821894709": {
+        "balance": 10,
+        "bets": [],
+        "transactions": {
+            "deposits": [
+                {
+                    "timestamp": "2025-02-08 22:51:15",
+                    "amount": 10,
+                    "Reason": "Weekly activity in PavlovPSVR2"
+                }
+            ],
+            "withdrawals": []
+        }
+    },
+    "1088350641522487347": {
+        "balance": 10,
+        "bets": [],
+        "transactions": {
+            "deposits": [
+                {
+                    "timestamp": "2025-02-08 22:51:15",
+                    "amount": 10,
+                    "Reason": "Weekly activity in PavlovPSVR2"
                 }
             ],
             "withdrawals": []
