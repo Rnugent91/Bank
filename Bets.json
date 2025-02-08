@@ -20,6 +20,11 @@
         "betting_open": true,
         "home_team": "AfterHours",
         "away_team": "Crusader is Handsome",
-        "bets": {}
+        "bets": {
+            "548632313752190986": {
+                "team": "AfterHours",
+                "amount": 1000
+            }
+        }
     }
 }
