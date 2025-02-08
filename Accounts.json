@@ -1,6 +1,6 @@
 {
     "548632313752190986": {
-        "balance": 10,
+        "balance": 9,
         "bets": [],
         "transactions": {
             "deposits": [
@@ -10,7 +10,13 @@
                     "Reason": "Weekly activity in vail"
                 }
             ],
-            "withdrawals": []
+            "withdrawals": [
+                {
+                    "timestamp": "2025-02-08 22:55:24",
+                    "amount": 1,
+                    "Reason": "Purchase"
+                }
+            ]
         }
     },
     "435739949002784771": {
