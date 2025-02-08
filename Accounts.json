@@ -1,6 +1,6 @@
 {
     "548632313752190986": {
-        "balance": 9,
+        "balance": 8,
         "bets": [],
         "transactions": {
             "deposits": [
@@ -11,6 +11,11 @@
                 }
             ],
             "withdrawals": [
+                {
+                    "timestamp": "2025-02-08 22:55:54",
+                    "amount": 1,
+                    "Reason": "penalty"
+                },
                 {
                     "timestamp": "2025-02-08 22:55:24",
                     "amount": 1,
