@@ -9,8 +9,9 @@
         {
             "team1": "MAYHEM",
             "team2": "Afterhours",
-            "status": "Pending",
-            "caster": "N/A"
+            "status": "Requested 1739329200",
+            "caster": "N/A",
+            "requested_by": "Afterhours"
         },
         {
             "team1": "Grim Tide",
