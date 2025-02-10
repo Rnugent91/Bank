@@ -63,10 +63,9 @@
         {
             "team1": "Afterhours",
             "team2": "terrible",
-            "status": "Confirmed 1739329200",
-            "caster": "N/A",
-            "requested_by": "Afterhours"
+            "status": "Pending",
+            "caster": "N/A"
         }
     ],
-    "embed_id": 1338642073859129425
+    "embed_id": null
 }
