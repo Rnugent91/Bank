@@ -64,7 +64,8 @@
             "team1": "Afterhours",
             "team2": "terrible",
             "status": "Requested",
-            "caster": "N/A"
+            "caster": "N/A",
+            "scheduled_time": "Tuesday, February 11 at 10:00 PM"
         }
     ],
     "embed_id": 1338636239120892030
