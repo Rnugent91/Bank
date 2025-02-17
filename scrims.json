@@ -5,7 +5,9 @@
             "team": "Classified",
             "time": "Feb 17 09:00 PM",
             "status": "Looking",
-            "discord_id": 842418968491720745
+            "discord_id": 842418968491720745,
+            "challenger_team": "Afterhours",
+            "challenger_discord_id": 548632313752190986
         },
         {
             "scrim_id": "d823703c-30e3-49bd-8622-a5600297f633",
