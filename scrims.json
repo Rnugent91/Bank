@@ -5,7 +5,9 @@
             "team": "Afterhours",
             "time": "Feb 17 09:00 PM",
             "status": "Looking",
-            "discord_id": 548632313752190986
+            "discord_id": 548632313752190986,
+            "challenger_team": "terrible",
+            "challenger_discord_id": 928338279819006004
         }
     ],
     "embed_id": 1341167787791613966
