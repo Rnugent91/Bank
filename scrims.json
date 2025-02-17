@@ -1,19 +1,2 @@
 {
-    "scrims": [
-        {
-            "scrim_id": "525c5c7c-b7c4-414a-b3bd-dfea3814412d",
-            "team": "Afterhours",
-            "time": "Feb 17 09:00 PM",
-            "status": "Looking",
-            "discord_id": 548632313752190986
-        },
-        {
-            "scrim_id": "762a6d60-4c0d-4078-a9d2-078bbf354348",
-            "team": "Afterhours",
-            "time": "Feb 17 09:00 PM",
-            "status": "Looking",
-            "discord_id": 548632313752190986
-        }
-    ],
-    "embed_id": 1341123365745856542
 }
