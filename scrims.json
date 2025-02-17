@@ -1,21 +1,4 @@
 {
-    "scrims": [
-        {
-            "scrim_id": "3783c004-3650-4288-b103-a3ef1068c0f0",
-            "team": "Classified",
-            "time": "Feb 17 09:00 PM",
-            "status": "Scheduled",
-            "discord_id": 842418968491720745,
-            "challenger_team": "Afterhours",
-            "challenger_discord_id": 548632313752190986
-        },
-        {
-            "scrim_id": "d823703c-30e3-49bd-8622-a5600297f633",
-            "team": "Afterhours",
-            "time": "Feb 17 09:00 PM",
-            "status": "Looking",
-            "discord_id": 548632313752190986
-        }
-    ],
-    "embed_id": 1341168247931670618
+    "scrims": [],
+    "embed_id": 1341172986383831084
 }
