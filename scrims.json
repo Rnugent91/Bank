@@ -4,8 +4,10 @@
             "scrim_id": "aeb81c68-29c9-40ec-af84-188a94a1d6b6",
             "team": "Afterhours",
             "time": "Feb 17 09:00 PM",
-            "status": "Looking",
-            "discord_id": 548632313752190986
+            "status": "Pending Confirmation",
+            "discord_id": 548632313752190986,
+            "challenger_team": "Afterhours",
+            "challenger_discord_id": 548632313752190986
         }
     ],
     "embed_id": 1341136667943374889
