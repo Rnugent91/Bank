@@ -1,4 +1,12 @@
 {
-    "scrims": [],
+    "scrims": [
+        {
+            "scrim_id": "2c24b7ac-050b-48d3-bc4d-f2b0d15b4ae1",
+            "team": "Afterhours",
+            "time": "Feb 17 09:00 PM",
+            "status": "Looking",
+            "discord_id": 548632313752190986
+        }
+    ],
     "embed_id": 1341134753130086502
 }
