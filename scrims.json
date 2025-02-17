@@ -1,4 +1,10 @@
 {
-    "scrims": [],
+    "scrims": [
+        {
+            "team": "Afterhours",
+            "time": "Feb 17 09:00 PM",
+            "status": "Looking"
+        }
+    ],
     "embed_id": 1341113764908498975
 }
