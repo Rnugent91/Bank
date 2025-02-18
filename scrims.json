@@ -1,4 +1,12 @@
 {
-    "scrims": [],
+    "scrims": [
+        {
+            "scrim_id": "081d045a-669b-486f-87b5-ab9ac78809e5",
+            "team": "Vanguard",
+            "time": "Feb 21 08:00 PM",
+            "status": "Looking",
+            "discord_id": 941052834697330758
+        }
+    ],
     "embed_id": 1341172986383831084
 }
