@@ -26,6 +26,14 @@
                 "discord_id": 548632313752190986,
                 "challenger_team": "Crane Gang",
                 "challenger_discord_id": 527317249615462410
+            },
+            {
+                "scrim_id": "e704a0cf-d3e5-4628-a5da-8d69968fd98b",
+                "team": "Crane Gang",
+                "time": "<t:1745026803:f>",
+                "unix_time": 1745026803,
+                "status": "Looking",
+                "discord_id": 527317249615462410
             }
         ]
     }
