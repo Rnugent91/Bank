@@ -2,52 +2,6 @@
     "onward": {
         "channel_id": 1362575836783317132,
         "embed_id": 1362622183788118168,
-        "scrims": [
-            {
-                "scrim_id": "8c6b3a4b-dd67-4cd5-bd07-7f61f21755e3",
-                "team": "Ninja_Volk",
-                "time": "Apr 18 06:30 PM",
-                "status": "Scheduled",
-                "discord_id": 548632313752190986,
-                "challenger_team": "terrible",
-                "challenger_discord_id": 928338279819006004
-            },
-            {
-                "scrim_id": "3847dbe2-5e32-421e-b377-404d27844baf",
-                "team": "Ninja_Volk",
-                "time": "<t:1745022600:f>",
-                "unix_time": 1745022600,
-                "status": "Scheduled",
-                "discord_id": 548632313752190986,
-                "challenger_team": "terrible",
-                "challenger_discord_id": 928338279819006004
-            },
-            {
-                "scrim_id": "ddd26cf3-1ff2-4430-af34-38d83c446f38",
-                "team": "Ninja_Volk",
-                "time": "<t:1745015400:f>",
-                "unix_time": 1745015400,
-                "status": "Scheduled",
-                "discord_id": 548632313752190986,
-                "challenger_team": "terrible",
-                "challenger_discord_id": 928338279819006004
-            },
-            {
-                "scrim_id": "61ae847c-044e-4bb3-8d74-8f181187b2a3",
-                "team": "Ninja_Volk",
-                "time": "<t:1744945200:f>",
-                "unix_time": 1744945200,
-                "status": "Looking",
-                "discord_id": 548632313752190986
-            },
-            {
-                "scrim_id": "65fa4930-792d-411c-94b1-f8da2f0621f3",
-                "team": "Ninja_Volk",
-                "time": "<t:1744901100:f>",
-                "unix_time": 1744901100,
-                "status": "Looking",
-                "discord_id": 548632313752190986
-            }
-        ]
+        "scrims": []
     }
 }
