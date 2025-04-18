@@ -16,6 +16,15 @@
     "Orion Drift": {
         "channel_id": 1362590837820883055,
         "embed_id": 1362848629223719005,
-        "scrims": []
+        "scrims": [
+            {
+                "scrim_id": "f4c56f64-40bd-49ed-b986-23d783f13499",
+                "team": "Ninja_Ball",
+                "time": "<t:1745015411:f>",
+                "unix_time": 1745015411,
+                "status": "Looking",
+                "discord_id": 548632313752190986
+            }
+        ]
     }
 }
