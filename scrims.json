@@ -31,6 +31,14 @@
                 "discord_id": 548632313752190986,
                 "challenger_team": "terrible",
                 "challenger_discord_id": 928338279819006004
+            },
+            {
+                "scrim_id": "61ae847c-044e-4bb3-8d74-8f181187b2a3",
+                "team": "Ninja_Volk",
+                "time": "<t:1744945200:f>",
+                "unix_time": 1744945200,
+                "status": "Looking",
+                "discord_id": 548632313752190986
             }
         ]
     }
