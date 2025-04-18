@@ -32,6 +32,14 @@
                 "unix_time": 1745023295,
                 "status": "Looking",
                 "discord_id": 548632313752190986
+            },
+            {
+                "scrim_id": "8c900636-5061-4ee7-a292-327a744fbc74",
+                "team": "Crane Gang",
+                "time": "<t:1745027009:f>",
+                "unix_time": 1745027009,
+                "status": "Looking",
+                "discord_id": 527317249615462410
             }
         ]
     }
