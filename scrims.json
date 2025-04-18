@@ -2,6 +2,14 @@
     "onward": {
         "channel_id": 1362575836783317132,
         "embed_id": 1362593258693333305,
-        "scrims": []
+        "scrims": [
+            {
+                "scrim_id": "a14037c7-54f2-4271-98eb-bd09832c196f",
+                "team": "Ninja_Volk",
+                "time": "Apr 18 06:30 PM",
+                "status": "Looking",
+                "discord_id": 548632313752190986
+            }
+        ]
     }
 }
