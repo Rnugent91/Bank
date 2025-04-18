@@ -26,6 +26,14 @@
                 "unix_time": 1744938000,
                 "status": "Looking",
                 "discord_id": 548632313752190986
+            },
+            {
+                "scrim_id": "aadd2d96-e844-49ae-be20-ee53572ca4bb",
+                "team": "Luxury",
+                "time": "<t:1745024400:f>",
+                "unix_time": 1745024400,
+                "status": "Looking",
+                "discord_id": 1045871033913188512
             }
         ]
     }
