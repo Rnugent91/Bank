@@ -1,17 +1,1 @@
-{
-    "onward": {
-        "channel_id": 1362575836783317132,
-        "embed_id": 1362598552840306750,
-        "scrims": [
-            {
-                "scrim_id": "4d1857a5-1984-4547-b6d7-f98765877b38",
-                "team": "Ninja_Volk",
-                "time": "Apr 18 06:30 PM",
-                "status": "Scheduled",
-                "discord_id": 548632313752190986,
-                "challenger_team": "TBD",
-                "challenger_discord_id": 928338279819006004
-            }
-        ]
-    }
-}
+
