@@ -2,6 +2,15 @@
     "onward": {
         "channel_id": 1362575836783317132,
         "embed_id": 1362628385615904828,
-        "scrims": []
+        "scrims": [
+            {
+                "scrim_id": "82ce48fc-95fd-4843-a426-70f5e9e5447e",
+                "team": "Luxury",
+                "time": "<t:1744938000:f>",
+                "unix_time": 1744938000,
+                "status": "Looking",
+                "discord_id": 1045871033913188512
+            }
+        ]
     }
 }
