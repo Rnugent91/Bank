@@ -18,7 +18,9 @@
                 "time": "<t:1745022600:f>",
                 "unix_time": 1745022600,
                 "status": "Looking",
-                "discord_id": 548632313752190986
+                "discord_id": 548632313752190986,
+                "challenger_team": "terrible",
+                "challenger_discord_id": 928338279819006004
             }
         ]
     }
