@@ -48,6 +48,14 @@
                 "unix_time": 1745015430,
                 "status": "Looking",
                 "discord_id": 548632313752190986
+            },
+            {
+                "scrim_id": "4f730876-369b-4723-961a-c3e30a673d4b",
+                "team": "Ninja_Ball",
+                "time": "<t:1745027067:f>",
+                "unix_time": 1745027067,
+                "status": "Looking",
+                "discord_id": 548632313752190986
             }
         ]
     }
