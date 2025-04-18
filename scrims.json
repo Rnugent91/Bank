@@ -23,7 +23,9 @@
                 "time": "<t:1745015444:f>",
                 "unix_time": 1745015444,
                 "status": "Looking",
-                "discord_id": 548632313752190986
+                "discord_id": 548632313752190986,
+                "challenger_team": "Crane Gang",
+                "challenger_discord_id": 527317249615462410
             }
         ]
     }
