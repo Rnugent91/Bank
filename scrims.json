@@ -10,6 +10,14 @@
                 "unix_time": 1745024400,
                 "status": "Looking",
                 "discord_id": 1045871033913188512
+            },
+            {
+                "scrim_id": "05774f02-5050-4bc8-97a8-c8bd0e024f06",
+                "team": "Ninja_Volk",
+                "time": "<t:1745015412:f>",
+                "unix_time": 1745015412,
+                "status": "Looking",
+                "discord_id": 548632313752190986
             }
         ]
     }
