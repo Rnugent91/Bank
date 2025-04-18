@@ -23,40 +23,7 @@
     },
     "Orion Drift": {
         "channel_id": 1362590837820883055,
-        "embed_id": 1362860988776448071,
-        "scrims": [
-            {
-                "scrim_id": "fa3e9835-d1fc-4bd3-9ca8-45e83968dc56",
-                "team": "Ninja_Ball",
-                "time": "<t:1745023295:f>",
-                "unix_time": 1745023295,
-                "status": "Looking",
-                "discord_id": 548632313752190986
-            },
-            {
-                "scrim_id": "8c900636-5061-4ee7-a292-327a744fbc74",
-                "team": "Crane Gang",
-                "time": "<t:1745027009:f>",
-                "unix_time": 1745027009,
-                "status": "Looking",
-                "discord_id": 527317249615462410
-            },
-            {
-                "scrim_id": "2b9fb67c-02d7-42b9-a1d0-fec10aaf3db3",
-                "team": "Ninja_Ball",
-                "time": "<t:1745015430:f>",
-                "unix_time": 1745015430,
-                "status": "Looking",
-                "discord_id": 548632313752190986
-            },
-            {
-                "scrim_id": "4f730876-369b-4723-961a-c3e30a673d4b",
-                "team": "Ninja_Ball",
-                "time": "<t:1745027067:f>",
-                "unix_time": 1745027067,
-                "status": "Looking",
-                "discord_id": 548632313752190986
-            }
-        ]
+        "embed_id": 1362865953456525605,
+        "scrims": []
     }
 }
