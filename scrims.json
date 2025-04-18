@@ -26,14 +26,6 @@
         "embed_id": 1362860988776448071,
         "scrims": [
             {
-                "scrim_id": "e704a0cf-d3e5-4628-a5da-8d69968fd98b",
-                "team": "Crane Gang",
-                "time": "<t:1745026803:f>",
-                "unix_time": 1745026803,
-                "status": "Looking",
-                "discord_id": 527317249615462410
-            },
-            {
                 "scrim_id": "fa3e9835-d1fc-4bd3-9ca8-45e83968dc56",
                 "team": "Ninja_Ball",
                 "time": "<t:1745023295:f>",
