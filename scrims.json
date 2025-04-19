@@ -2,7 +2,16 @@
     "onward": {
         "channel_id": 1362575836783317132,
         "embed_id": 1362930988354769087,
-        "scrims": []
+        "scrims": [
+            {
+                "scrim_id": "42d6a4c7-c195-4cf9-b3c7-d2a075c97945",
+                "team": "REKT",
+                "time": "<t:1745110800:f>",
+                "unix_time": 1745110800,
+                "status": "Looking",
+                "discord_id": 781663875161653268
+            }
+        ]
     },
     "Orion Drift": {
         "channel_id": 1362590837820883055,
