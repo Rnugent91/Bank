@@ -2,18 +2,7 @@
     "onward": {
         "channel_id": 1362575836783317132,
         "embed_id": 1362930988354769087,
-        "scrims": [
-            {
-                "scrim_id": "aadd2d96-e844-49ae-be20-ee53572ca4bb",
-                "team": "Luxury",
-                "time": "<t:1745024400:f>",
-                "unix_time": 1745024400,
-                "status": "Scheduled",
-                "discord_id": 1045871033913188512,
-                "challenger_team": "OffConstantly",
-                "challenger_discord_id": 569677837695582248
-            }
-        ]
+        "scrims": []
     },
     "Orion Drift": {
         "channel_id": 1362590837820883055,
