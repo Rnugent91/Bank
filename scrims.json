@@ -9,7 +9,9 @@
                 "time": "<t:1745024400:f>",
                 "unix_time": 1745024400,
                 "status": "Looking",
-                "discord_id": 1045871033913188512
+                "discord_id": 1045871033913188512,
+                "challenger_team": "OffConstantly",
+                "challenger_discord_id": 569677837695582248
             }
         ]
     },
