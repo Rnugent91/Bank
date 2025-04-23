@@ -2,7 +2,16 @@
     "onward": {
         "channel_id": 1362575836783317132,
         "embed_id": 1362930988354769087,
-        "scrims": []
+        "scrims": [
+            {
+                "scrim_id": "fdd4624f-d283-46ef-979d-ea018dacaadf",
+                "team": "The Cartel",
+                "time": "<t:1745370000:f>",
+                "unix_time": 1745370000,
+                "status": "Looking",
+                "discord_id": 938553052263243866
+            }
+        ]
     },
     "Orion Drift": {
         "channel_id": 1362590837820883055,
